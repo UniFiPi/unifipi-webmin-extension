@@ -1,0 +1,3 @@
+desc=UniFi Controller
+os_support=*-linux
+category=servers
